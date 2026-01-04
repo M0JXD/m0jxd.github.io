@@ -10,6 +10,7 @@ read -p "Continue? (Y/N): " confirm && [[ $confirm == [yY] || $confirm == [yY][e
 git checkout deploy
 rm -rfv !(_site|.git|.gitignore)
 cp -Rv _site/* .
+git add *
 git commit -m "Update deployment"
 git checkout main
 echo "Deployed to branch"
