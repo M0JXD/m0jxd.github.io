@@ -7,12 +7,12 @@ GREEN="\e[32m"
 ENDCOLOR="\e[0m"
 
 set -e
-echo -e "${GREEN}Generating site...\n${ENDCOLOR}"
+echo -e "${GREEN}Generating site...${ENDCOLOR}"
 npm install
 echo -e "${GREEN}\nRunning git status, you should only run this script if everything is committed...\n${ENDCOLOR}"
 git status
-echo -e "\n"
-read -p "${GREEN}Continue with deployment? (Y/N): ${ENDCOLOR}" confirm && [[ $confirm == [yY] || $confirm == [yY][eE][sS] ]] || exit 1
+echo -e "${GREEN}Continue with deployment? (Y/N): ${ENDCOLOR}"
+read confirm && [[ $confirm == [yY] || $confirm == [yY][eE][sS] ]] || exit 1
 echo -e "${GREEN}\nCheckout Deploy Branch...\n${ENDCOLOR}"
 git checkout deploy
 echo -e "${GREEN}Removing old files...\n${ENDCOLOR}"
