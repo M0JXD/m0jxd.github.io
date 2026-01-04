@@ -8,8 +8,8 @@ echo "Running git status, you should only run this script if everything is commi
 git status
 read -p "Continue? (Y/N): " confirm && [[ $confirm == [yY] || $confirm == [yY][eE][sS] ]] || exit 1
 git checkout deploy
-rm -rf !\(_site|.git|.gitignore)
-cp -R _site/* .
+rm -rfv !\(_site|.git|.gitignore)
+cp -Rv _site/* .
 git commit -m "Update deployment"
 git checkout main
 echo "Deployed to branch"
