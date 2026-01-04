@@ -8,6 +8,7 @@ ENDCOLOR="\e[0m"
 
 set -e
 echo -e "${GREEN}Generating site...${ENDCOLOR}"
+rm -r _site
 npm install
 echo -e "${GREEN}\nRunning git status, you should only run this script if everything is committed...\n${ENDCOLOR}"
 git status
