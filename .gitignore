@@ -1,0 +1,3 @@
+# When switching branches these persist
+_site/
+node_modules/
