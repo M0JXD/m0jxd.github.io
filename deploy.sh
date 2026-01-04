@@ -5,7 +5,7 @@
 set -e
 echo -e "Generating site...\n"
 npm install
-echo -e "Running git status, you should only run this script if everything is committed...\n"
+echo -e "\nRunning git status, you should only run this script if everything is committed...\n"
 git status
 echo -e "\n"
 read -p "Continue? (Y/N): " confirm && [[ $confirm == [yY] || $confirm == [yY][eE][sS] ]] || exit 1
