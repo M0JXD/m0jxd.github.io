@@ -2,23 +2,27 @@
 
 # _site is gitignored in both branchs and persists between checkouts
 # So we can simply copy it's contents upwards overwriting anything
+
+GREEN="\e[32m"
+ENDCOLOR="\e[0m"
+
 set -e
-echo -e "Generating site...\n"
+echo -e "${GREEN}Generating site...\n${ENDCOLOR}"
 npm install
-echo -e "\nRunning git status, you should only run this script if everything is committed...\n"
+echo -e "${GREEN}\nRunning git status, you should only run this script if everything is committed...\n${ENDCOLOR}"
 git status
 echo -e "\n"
-read -p "Continue? (Y/N): " confirm && [[ $confirm == [yY] || $confirm == [yY][eE][sS] ]] || exit 1
-echo -e "\nCheckout Deploy Branch...\n"
+read -p "${GREEN}Continue with deployment? (Y/N): ${ENDCOLOR}" confirm && [[ $confirm == [yY] || $confirm == [yY][eE][sS] ]] || exit 1
+echo -e "${GREEN}\nCheckout Deploy Branch...\n${ENDCOLOR}"
 git checkout deploy
-echo -e "Removing old files...\n"
+echo -e "${GREEN}Removing old files...\n${ENDCOLOR}"
 shopt -s extglob
 rm -rfv !(_site|.git|.gitignore)
-echo -e "\nCopying new files...\n"
+echo -e "${GREEN}\nCopying new files...\n${ENDCOLOR}"
 cp -Rv _site/* .
-echo -e "\nCommiting...\n"
+echo -e "${GREEN}\nCommiting...\n${ENDCOLOR}"
 git add -A
-git commit -m "Update deployment"
+git commit -m "Update deployment `date`"
 git push
 git checkout main
-echo -e "\nDeployed!"
+echo -e "${GREEN}\nDeployed!${ENDCOLOR}"
