@@ -21,4 +21,4 @@ Over my career I have experienced:
 In the spirit of honesty, I don't have a degree, but I do have qualification(s) relevant to the field. It's not that I never wanted to, it's just one of those things that hasn't happened (yet?).
 
 Please reach out if you'd like a copy of my CV (which basically reiterates a lot of what is on this site but in a more succinct and professional manner).  
-You can contact be via *"jamiedrinkell at (domain from the creators of the world's most popular search engine)"*.
+You can contact me via *"jamiedrinkell at (domain from the creators of the world's most popular search engine)"*.
