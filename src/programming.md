@@ -15,7 +15,7 @@ Bless his heart, he just couldn't get me to take notice. I was too occupied with
 I finally started learning a bit about programming in 2021. In my previous job I'd worked in Electronics Engineering/Repair, and I knew it was a skill I was going to need to be able to kickstart my career seriously. So one day I picked up a book that had been lying around for years called *"C++ For Dummies"* and just read it. I didn't really do many of the exercises, but did have fun making silly console programs with my new-found knowledge.
 
 Sadly I did not know how destructive this book would be, it was pre C++11 and never once mentions std::vector anywhere...
-Luckily, this pre C++11 subset is very close to what Arduino uses, and empowered that I could finally completely understand the short Arduino book and felt like I could make anything. Not too long after, I went on to read another book called *"Learn C in 21 Days (Fourth Edition)"*. Lucky for me, C has not changed very much at all! I found this book a magnitude more fascinating than the first. C is such a beautiful language!
+Luckily, this pre C++11 subset is very close to what Arduino uses, and empowered that I could finally completely understand the short *"Getting Started with Arduino"* book we had laying around, and felt like I could make anything. Not too long after, I went on to read another book called *"Learn C in 21 Days (Fourth Edition)"*. Lucky for me, C has not changed very much at all! I found this book a magnitude more fascinating than the first. C is such a beautiful language!
 
 You probably notice something lacking thing here: Projects. Funnily enough despite learning C/C++, [my first project](/valve-analyser-plotter) was actually in Processing, which is essentially a library for Java with a beginner friendly preprocessor.
 
@@ -39,7 +39,7 @@ As I've grown as developer, I've settled on a few languages/technologies that ar
 - C (and some C++) - These are the definitive languages that seem to underpin everything I'm interested in!
 - Lua - Lua is the language used in many tools I like, such as Textadept, REAPER and Xmake.
 - Dart - Mainly for Flutter, which I learned as it appealed to me a lot out of the choices for cross platform GUI toolkits, but I've found Dart to be a nice general purpose language outside of Flutter.
-- Python - I'm not really a fan of whitespace sensitive languages, but Python is undeniably everywhere and easy to be productive with.
+- Python - I'm not really a fan of white-space sensitive languages, but Python is undeniably everywhere and easy to be productive with.
 
 I've also used/encountered Bash, JavaScript (who hasn't?) and Rust, but am not as good at those!
 
