@@ -64,8 +64,15 @@ main {
 
 /* Jesus, Gemini sucked at this */
 img {
-  width: 100%;
+  width: auto;
   height: auto;
   max-width: 600px;
   max-height: 600px;
+}
+
+/* Small screens */
+@media (max-width: 800px) {
+  img {
+    max-width: 300px;
+  }
 }
