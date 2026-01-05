@@ -1,5 +1,19 @@
 /* Main CSS file for my site */
 
+/* Dark Reader Extension Colours:
+
+  The Light Version of this site should be super compliant using named colours.
+  Dark will use these colours.
+
+  Background: #1e2021
+  Header: #2c2f31
+  Text: #a69d8e
+  Links: #2b88e7
+  Footer: #60686c
+  Footer Text: #e2dfdb
+
+*/
+
 /* Set border-box everywhere */
 *, *::before, *::after {
   box-sizing: border-box;
@@ -9,8 +23,8 @@ html, body {
   height: 100%;
   margin: 0;
   padding: 0;
-  color: WhiteSmoke;
-  background-color: DimGrey;
+  color: #a69d8e;
+  background-color: #1e2021;
   /*font-size: 18px;*/
 }
 
@@ -22,7 +36,7 @@ body {
 }
 
 body a {
-  color: DeepSkyBlue;
+  color: #2b88e7;
 }
 
 header {
@@ -32,12 +46,12 @@ header {
   align-items: center;
   justify-content: space-between;
   padding: 1rem 1rem;
-  color: DimGrey;
-  background-color: Silver;
+  color: #a69d8e;
+  background-color: #2c2f31;
 }
 
 header > nav > a {
-  color: SlateBlue;
+  color: #2b88e7;
 }
 
 header > a > img {
@@ -54,8 +68,8 @@ footer {
   display: flex;
   align-items: center;
   justify-content: center;
-  color: #EEEEEE;
-  background-color: grey;
+  color: #e2dfdb;
+  background-color: #60686c;
 }
 
 main {
