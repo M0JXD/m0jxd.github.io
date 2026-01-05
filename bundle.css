@@ -9,8 +9,8 @@ html, body {
   height: 100%;
   margin: 0;
   padding: 0;
-  color: #444;
-  background-color: #EEEEEE;
+  color: DimGray;
+  background-color: WhiteSmoke;
   /*font-size: 18px;*/
 }
 
@@ -45,7 +45,7 @@ footer {
   display: flex;
   align-items: center;
   justify-content: center;
-  color: #EEEEEE;
+  color: WhiteSmoke;
   background-color: grey;
 }
 
