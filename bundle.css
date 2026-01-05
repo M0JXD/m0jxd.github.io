@@ -9,6 +9,9 @@ html, body {
   margin: 0;
   padding: 0;
   height: 100%;
+  color: #444;
+  background-color: #EEEEEE;
+  /*font-size: 18px;*/
 }
 
 body {
@@ -72,6 +75,11 @@ img {
 
 /* Small screens */
 @media (max-width: 800px) {
+
+  header > h1 {
+    font-size: 14px;
+  }
+
   img {
     max-width: 300px;
   }
