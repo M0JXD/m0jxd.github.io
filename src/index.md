@@ -5,7 +5,7 @@ title: Homepage
 
 Hi, welcome to my website! It's a small place so I can share a bit about me and what I like to do. It's kind of somewhere between a portfolio and blog site, but more informal and intentionally less organised.
 
-I've wanted my own page for some time, but I am not a web developer, so have developed this site with Eleventy with most of the content wrote in Markdown, using a small handful of HTML, CSS and Nunjucks that I've been able to cobble together thanks to Stack-overflow and YouTube. I chose an SSG in the spirit of my appreciation for fast, performant and minimalist software (but not to the extreme) that gets the job done well. Much of the site is still being wrote/constructed, and I am slowly learning some more about web tech so I can make it nicer.
+I've wanted my own page for some time, but I am not a web developer, so have developed this site with Eleventy with most of the content wrote in Markdown, using a small handful of HTML, CSS and Nunjucks that I've been able to cobble together thanks to the likes of W3Schools, Stack-overflow and YouTube. I chose an SSG in the spirit of my appreciation for fast, performant and minimalist software (but not to the extreme) that gets the job done well. Much of the site is still being wrote/constructed, and I am slowly learning some more about web tech so I can make it nicer.
 
 The picture at the top is a very cute crotched version of a *certain popular blue hedgehog* that my sister made for me. I use it as a profile picture on most platforms.
 
