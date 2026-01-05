@@ -1,0 +1,86 @@
+/* Main CSS file for my site */
+
+/* Set border-box everywhere */
+*, *::before, *::after {
+  box-sizing: border-box;
+}
+
+html, body {
+  height: 100%;
+  margin: 0;
+  padding: 0;
+  color: WhiteSmoke;
+  background-color: DimGrey;
+  /*font-size: 18px;*/
+}
+
+body {
+  font-family: Tahoma, Arial;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+}
+
+body a {
+  color: DeepSkyBlue;
+}
+
+header {
+  width: 100%;
+  height: 70px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 1rem 1rem;
+  color: DimGrey;
+  background-color: Silver;
+}
+
+header > nav > a {
+  color: SlateBlue;
+}
+
+header > a > img {
+  width: 52px;
+  height: 52px;
+  border-radius: 50%;
+  object-fit: cover;
+}
+
+footer {
+  width: 100%;
+  height: 30px;
+  line-height: 1;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: #EEEEEE;
+  background-color: grey;
+}
+
+main {
+  margin: 0 auto;
+  width: 70%;
+  flex: 1;
+}
+
+/* Jesus, Gemini sucked at this */
+img {
+  width: auto;
+  height: auto;
+  max-width: 600px;
+  max-height: 600px;
+}
+
+/* Mobile screen fixes */
+@media (max-width: 800px) {
+  img {
+    max-width: 280px;
+  }
+}
+
+@media (max-width: 480px) {
+  header > h1 {
+    font-size: 16px;
+  }
+}
