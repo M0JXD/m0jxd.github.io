@@ -31,12 +31,6 @@ header {
   padding: 1rem 1rem;
 }
 
-header > h1 {
-  flex: 1;
-  text-align: center;
-  margin: 0;
-}
-
 header > a > img {
   width: 52px;
   height: 52px;
@@ -72,6 +66,13 @@ img {
 /* Small screens */
 @media (max-width: 800px) {
   img {
-    max-width: 300px;
+    max-width: 280px;
+  }
+
+}
+
+@media (max-width: 480px) {
+  header > h1 {
+    font-size: 15px;
   }
 }
