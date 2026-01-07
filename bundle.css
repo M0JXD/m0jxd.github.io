@@ -1,5 +1,7 @@
 /* Main CSS file for my site */
 
+/*  The light Version of this site uses named colours for good compliance */
+
 /* Set border-box everywhere */
 *, *::before, *::after {
   box-sizing: border-box;
