@@ -12,11 +12,11 @@ I made my first start on the UI in Flutter, but quickly realised I needed to do 
 
 Once the CLI tool was up and running I returned to the Flutter version. While I did finish it (and it looks very nice!), overall it was a miserable failure. The main fail point was the MIDI package it relied on, it had become almost completely unmaintained. Whilst it would work in Debug mode, something about Dart's AOT release mode would cause it to struggle with re-connections, which was even evident using their example app. Now a few months later, the package will not even build against the latest Flutter. Also, Flutter's Textfield widget has slowdown issues on Linux Mint due to it's accessibility semantics, which can be worked around, but is a bit annoying.
 
-![](/img/axe-loader/axeiiloader-flutter-light.png)
+![](/img/axe-loader/axeiiloader-flutter-light.jpg)
 
 Disappointed, I took the original CLI tool I made and split it's core code into a library to use as the base of new UI, while also retaining a CLI frontend. 
 I had gained a big appreciation for applications that look/feel native to the OS and are performant, and also wanted to continue using C (not C++).
 
 With those constraints, there's only a handful of choices for the UI library. I settled on IUP over the others like GTK, NAppGUI, libui etc. for a small variety of reasons, and feel the app turned out very well in the end. Not long after finishing the first version, I had a lot of help from the user @Wepeell who tested and logged MIDI transfers with their XL+ unit, allowing me to implement support for them too.
 
-![](/img/axe-loader/axeiiloader-native.png)
+![](/img/axe-loader/axeiiloader-native.jpg)

@@ -13,7 +13,7 @@ I made the app in Processing. At the time, I chose Processing due to it's heavy 
 
 I was quite determined not to have to change Merlin's source code - an amateur mistake in retrospective. I did make a reduced "test sketch" that would fake good reads to flash to an Arduino so I could test plotting and curves. I wanted to make a plotter app ahead of building the real thing, the intention being that it would spur me on to build it.
 
-![](/img/valve-tracer.png)
+![](/img/valve-tracer.jpg)
 
 I still haven't built a Valve Tester, and it's now a good four years later! Making time for doing actual building has dropped of my radar these days. Nonetheless it was a very valuable learning experience and I remember scratching my head trying to make things work as a very amateur programmer in the days before AI could spot your stupid mistakes a mile off.
 
