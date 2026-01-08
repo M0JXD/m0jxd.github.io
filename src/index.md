@@ -1,6 +1,6 @@
 ---
-layout: layout.njk
-title: Homepage
+title: M0JXD's Website - Homepage
+description: MOJXD's (Jamie Drinkell's) Personal Website.
 ---
 
 Hi, welcome to my website! It's a small place so I can share a bit about me and what I like to do. It's kind of somewhere between a portfolio and blog site, but more informal and intentionally less organised.

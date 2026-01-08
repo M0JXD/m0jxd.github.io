@@ -1,5 +1,6 @@
 ---
 title: ValveWizard Arduino Analyser Plotter
+description: Write up on an early programming project making a valve tracer plotting application.  
 ---
 
 # {{ title }}

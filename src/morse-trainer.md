@@ -1,5 +1,6 @@
 ---
 title: Morse Recognition Trainer App
+description: Write up on making a simple Morse training app with Raylib.
 ---
 
 # {{ title }}

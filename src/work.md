@@ -1,5 +1,6 @@
 ---
 title: Work
+description: Jamie Drinkell's Work Experience.
 ---
 
 # {{ title }}

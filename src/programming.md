@@ -1,5 +1,6 @@
 ---
 title: Programming
+description: M0JXD's programming journey.
 ---
 
 # {{ title }}

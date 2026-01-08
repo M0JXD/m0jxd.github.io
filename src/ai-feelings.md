@@ -1,5 +1,6 @@
 ---
 title: My feelings on AI
+description: M0JXD's incoherent ramblings on AI technology.
 ---
 
 # {{ title }}

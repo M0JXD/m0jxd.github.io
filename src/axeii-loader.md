@@ -1,5 +1,6 @@
 ---
 title: Axe-FX II Loader
+description: Write up on making a small loading utility for the Axe-FX II on Linux.
 ---
 
 # {{ title }}

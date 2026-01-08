@@ -1,5 +1,6 @@
 ---
 title: Guitars and Music
+description: M0JXD's (Jamie Drinkell's) Guitar Playing.
 ---
 
 # {{ title }}

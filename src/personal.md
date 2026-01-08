@@ -1,5 +1,6 @@
 ---
 title: Personal
+description: A bit on M0JXD's personal life.
 ---
 
 # {{ title }}

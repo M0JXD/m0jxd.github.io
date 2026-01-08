@@ -1,5 +1,6 @@
 ---
 title: Electronics and Ham Radio
+description: Musings on M0JXD's electronics and ham radio hobbies.
 ---
 
 # {{ title }}

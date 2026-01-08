@@ -1,5 +1,6 @@
 ---
 title: Akta Repairs
+description: Write up on electronics repair work on Akta Bioscience equipment.
 ---
 
 # {{ title }}

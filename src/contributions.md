@@ -1,5 +1,6 @@
 ---
 title: Open Source Contributions
+description: M0JXD's FLOSS contributions.
 ---
 
 # {{ title }}

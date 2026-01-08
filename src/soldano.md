@@ -1,5 +1,6 @@
 ---
 title: Soldano Amplifier Clone Build
+description: Write up on building a Soldano Amplifier Clone.
 ---
 
 # {{ title }}
