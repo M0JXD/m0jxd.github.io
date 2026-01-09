@@ -124,3 +124,29 @@ img {
     width: 16px;
   }
 }
+
+/* Dark Mode */
+@media (prefers-color-scheme: dark) {
+  html, body {
+    color: #a69d8e;
+    background-color: #1e2021;
+  }
+
+  body a {
+    color: #2b88e7;
+  }
+
+  header {
+    color: #a69d8e;
+    background-color: #2c2f31;
+  }
+
+  header > nav > a {
+    color: #2b88e7;
+  }
+
+  footer {
+    color: #e2dfdb;
+    background-color: #60686c;
+  }
+}
