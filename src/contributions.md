@@ -12,7 +12,7 @@ Here's a couple of my more notable contributions, but I have sent in smaller bug
 ## Components for DIYLC
 
 These were my first ever open source contributions. They're only simple components, but the Java 2D API was a good challenge for a budding developer.
-I ended up adding a Voltage Source Symbol, Current Source Symbol (pictured), Bulb, Stingray Pickup, Buzzer Symbol and fixes/additons to the Resistor and Battery Symbols.
+I ended up adding a Voltage Source Symbol, Current Source Symbol (pictured), Bulb, Stingray Pickup, Buzzer Symbol and fixes/additions to the Resistor and Battery Symbols.
 
 ![](/img/diylc-contribs.jpg)
 
@@ -30,4 +30,4 @@ About a year ago, I ported the Textadept editor to Haiku. While it's not feature
 I've also sent in some fixes for Textadept, and made some modules too, e.g. [Discord Rich Presence integration](https://github.com/M0JXD/textadept-discord-rpc).
 I also have a custom build to run on Windows 7 (just for funsies - please don't continue to use unsupported operating systems).
 
-As a sidenote - Textadept is just awesome and I can't recommend it enough if you are programmer looking for what is essentially a hyper scriptable notepad for programmers.
+As a sidenote - Textadept is just awesome and I can't recommend it enough if you are developer looking for what is essentially a hyper scriptable notepad for programmers.

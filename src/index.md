@@ -9,15 +9,13 @@ I've wanted my own page for some time, but I am not a web developer, so have dev
 
 The picture at the top is a very cute crotched version of a *certain popular blue hedgehog* that my sister made for me. I use it as a profile picture on most platforms.
 
-Ahead of time, I want to apologise for the quality of the images on this site! Particularly with anything electronics, most of the pictures were taken to track how things came apart, and now I want to showcase these projects they're all I have 🫤.
-
 ## About me
 
 To sum me up, I like:
 
 - [Electronics](electronics) - Fixing things, making things... there's something very satisfying about soldering parts together and seeing them work!
-- [Guitars and Music](guitars-and-music) - My heroes are Nuno Bettencourt, Guthrie Govan, Fast Eddie Clarke, Jun Senoue, Neal Schon, Brett Garsed...
 - [Programming/Computers](programming) - My favoured programming languages are C, Lua, Python and more recently, Dart.
+- [Guitars and Music](guitars-and-music) - My heroes are Nuno Bettencourt, Guthrie Govan, Fast Eddie Clarke, Jun Senoue, Neal Schon, Brett Garsed...
 - Gaming - I mostly mean retro style here, I love the classic Mega-Drive and PS2 games, but am also very excited for GTA VI!
 - Understanding how things work (which is really an extension of the above points) - my favourite subjects at school were Mathematics and Physics, and I can solve Rubik's cubes.
 
