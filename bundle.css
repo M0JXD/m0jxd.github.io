@@ -99,3 +99,19 @@ img {
     font-size: 16px;
   }
 }
+
+@media (max-width: 830px) {
+  .fill {
+    flex: 0;
+  }
+
+  .copyright {
+    display: flex;
+    justify-content: left;
+    flex: 3;
+  }
+
+  .copyright > p {
+    margin: 8px;
+  }
+}
