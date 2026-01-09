@@ -114,4 +114,12 @@ img {
   .copyright > p {
     margin: 8px;
   }
+
+  .social-links > a {
+    margin: 5px;
+  }
+
+  .social-links > a > img {
+    width: 18px;
+  }
 }
