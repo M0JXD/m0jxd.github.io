@@ -109,6 +109,7 @@ img {
     display: flex;
     justify-content: left;
     flex: 3;
+    font-size: 14px;
   }
 
   .copyright > p {
