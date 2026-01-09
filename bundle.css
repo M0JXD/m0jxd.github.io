@@ -109,7 +109,7 @@ img {
     display: flex;
     justify-content: left;
     flex: 3;
-    font-size: 14px;
+    font-size: 10px;
   }
 
   .copyright > p {
@@ -121,6 +121,6 @@ img {
   }
 
   .social-links > a > img {
-    width: 18px;
+    width: 16px;
   }
 }
