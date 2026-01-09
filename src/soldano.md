@@ -40,7 +40,7 @@ Finally adding the main board and wiring it up.
 ![](/img/soldano/build/MAIN_BOARD_WIRING.jpg)
 ![](/img/soldano/build/MAIN_BOARD_DONE.jpg)
 
-After all that work, the SLOClone was done! I was very lucky that at the first powerup, I biased it and the amp just worked. I was actually somewhat disappointed I wasn't going to need to fault find the amp! That first strum was killer though - me and my dad had earache for weeks!
+After all that work, the SLOClone was done! I was very lucky that at the first power-up, I biased it and the amp just worked. I was actually somewhat disappointed I wasn't going to need to fault find the amp! That first strum was killer though - me and my dad had earache for weeks!
 
 Here are some more completed pictures.
 
