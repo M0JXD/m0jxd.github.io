@@ -13,7 +13,6 @@ html, body {
   padding: 0;
   color: DimGray;
   background-color: WhiteSmoke;
-  /*font-size: 18px;*/
 }
 
 body {
@@ -55,6 +54,7 @@ footer > div {
 }
 
 .copyright {
+  flex: 2;
   display: flex;
   justify-content: center;
 }
@@ -100,7 +100,7 @@ img {
   }
 }
 
-@media (max-width: 830px) {
+@media (max-width: 550px) {
   .fill {
     flex: 0;
   }
@@ -109,7 +109,7 @@ img {
     display: flex;
     justify-content: left;
     flex: 3;
-    font-size: 10px;
+    font-size: 12px;
   }
 
   .copyright > p {
@@ -117,7 +117,7 @@ img {
   }
 
   .social-links > a {
-    margin: 4px;
+    margin: 6px;
   }
 
   .social-links > a > img {
