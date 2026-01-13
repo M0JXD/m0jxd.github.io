@@ -87,10 +87,20 @@ img {
   max-height: 600px;
 }
 
+iframe {
+  width: 550px;
+  height: 600px;
+}
+
 /* Mobile screen fixes */
 @media (max-width: 800px) {
   img {
     max-width: 280px;
+  }
+
+  iframe {
+    height: 400px;
+    width: 100%;
   }
 }
 
@@ -123,6 +133,8 @@ img {
   .social-links > a > img {
     width: 16px;
   }
+
+
 }
 
 /* Dark Mode */
