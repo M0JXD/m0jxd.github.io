@@ -16,28 +16,28 @@ Cover of the main solo from "Sweet Child O' Mine" by Guns and Roses:
 ---
 A solo I wrote for a competition that was run in a Discord for Crush40:
 
-<iframe width="400" height="600"
+<iframe
 src="https://www.youtube.com/embed/ag-OlZlB81c?si=lItpXBsZid8frqkm">
 </iframe>
 
 ---
 Cover of the solo from "Play With Me" by Extreme:
 
-<iframe width="400" height="600"
+<iframe
 src="https://www.youtube.com/embed/y2XqMtdNzGw">
 </iframe>
 
 ---
 Cover of the first solo from "Back in Black" by AC/DC:
 
-<iframe width="400" height="600"
+<iframe
 src="https://www.youtube.com/embed/_0BCFRhmsm0">
 </iframe>
 
 ---
 Cover of the solo from "Get The Funk Out" by Extreme:
 
-<iframe width="400" height="600"
+<iframe
 src="https://www.youtube.com/embed/vSkRNVp05Zw?si=5EuaznS54Fnz9Vp5">
 </iframe>
 
