@@ -1,1 +1,5 @@
-{ "layout": "layout.njk" }
+{ 
+	"layout": "layout.njk",
+	"date": "git Last Modified",
+	"created": "22/12/25" 
+}

@@ -26,7 +26,10 @@
         <article>
         {{ content | safe }}
         </article>
-        <!--<p><em>Page created on: {{ page.date }}, last edited: {{ eleventyComputed.modified }}</em><p>-->
+        <p><em>
+        Page Created: {{ created }}<br>
+        Last Edited: {{ page.date | ddmmyy }}
+        </em><p>
     </main>
     <footer>
         <div class="fill"></div>
