@@ -18,11 +18,9 @@ I ended up adding a Voltage Source Symbol, Current Source Symbol (pictured), Bul
 
 I even made some video tutorials in the end to help others get involved with contributing: <https://www.youtube.com/watch?v=a0dkfJJ4AgM&list=PLrKmpWTE8iQUW0RJYVDU6CNvc71-J55lI>
 
-Alas, my time and willingness to contribute more to DIYLC has declined of recent. The core developer has now returned to working on DIYLC a bit more and has hopped aboard the AI hype train. I'm also put off working in Java again generally - Eclipse isn't great!
-
 ## Porting Textadept to Haiku
 
-About a year ago, I ported the Textadept editor to Haiku. While it's not feature complete (there's some issues with the key-bindings and generating the docs), it works pretty well! Hopefully as Haiku becomes more complete I can revisit this.
+In early 2025, I ported the Textadept editor to Haiku. While it's not feature complete (there's some issues with the key-bindings and generating the docs), it works pretty well! Hopefully as Haiku becomes more complete I can revisit this.
 
 ![](/img/textadept-haiku-1.jpg)
 ![](/img/textadept-haiku-2.jpg)

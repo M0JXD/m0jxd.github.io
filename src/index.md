@@ -26,7 +26,7 @@ Oh, and food, and good TV 😊
 - [My Soldano Amplifier Clone Build](soldano)
 - [Repairing Akta Bioscience Equipment](akta-repairs)
 - [Making a loading utility for the Axe-FX II](axeii-loader)
-- [Open Source Contributions](contributions)
+- [Open Source Contributions](floss-contributions)
 - [A Morse Training Application](morse-trainer)
 
 ## And some other ramblings...

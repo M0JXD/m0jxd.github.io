@@ -20,7 +20,7 @@ Luckily, this pre C++11 subset is very close to what Arduino uses, and empowered
 
 You probably notice something lacking thing here: Projects. Funnily enough despite learning C/C++, [my first project](/valve-analyser-plotter) was actually in Processing, which is essentially a library for Java with a beginner friendly preprocessor.
 
-After that project and those books, I started seeing problems in my computing life that I realised I could fix. My first ever [open source contribution](/contributions) was again in Java.
+After that project and those books, I started seeing problems in my computing life that I realised I could fix. My first ever [open source contribution](/floss-contributions) was again in Java.
 
 I went on to read and learn *"The Black Art of Video Game Console Design"* by Andre LaMothe. Whilst this book is mostly about the electronics side of things, there's also a lot assembly and C code for 6502 and SX52 (basically a super PIC) prototype console designs he demonstrated.
 
