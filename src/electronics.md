@@ -9,7 +9,7 @@ Electronics was probably my earliest interest. I was soldering together LED and 
 
 ## Ham Radio
 
-I first got my amateur license in 2010, passing my foundation license then. After many years on and off, I finally passed my Full licence with Distinction in 2021. I do not operate often, I find more enjoyment in understanding the working principles that power radio than actually using it, and never had any real interest in DXing/Competitions. However I'm very proud of my license and use it as a username most everywhere!
+I first got my amateur license in 2010, passing my foundation license then. After many years on and off, I finally passed my Full license with Distinction in 2021. I do not operate often, I find more enjoyment in understanding the working principles that power radio than actually using it, and never had any real interest in DXing/Competitions. However I'm very proud of my license and use it as a username most everywhere!
 
 ## Odds and Ends...
 
@@ -66,4 +66,4 @@ Uploading the new firmware. I was initially concerned I'd done it wrong as there
 
 At the moment I'm back on to building an mcHF kit I started many, many years ago!
 
-I'm always hoping to upskill my Electronics knowledge. At the moment, Antennas, Filters and behaviours at high frequencies are still a bit mysterious to me. As the core Mathematics behind them is often very complicated even the imaginary numbers abstraction that reactance provides feels pretty far from the truth of differential equations.
+I'm always hoping to up-skill my Electronics knowledge. At the moment, Antennas, Filters and behaviours at high frequencies are still a bit mysterious to me. As the core Mathematics behind them is often very complicated even the imaginary numbers abstraction that reactance provides feels pretty far from the truth of differential equations.

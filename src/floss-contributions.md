@@ -9,11 +9,11 @@ I love open source and am a passionate (but hopefully not insufferable) Linux us
 Some of my free time goes towards contributing/bug-fixing open source projects I use and care about.
 Here's a couple of my more notable contributions, but I have sent in smaller bugfixes/additions to a variety of projects now.
 
-## Components for DIYLC
+## Components for DIY Layout Creator
 
-This was my first ever open source contribution. I made Current Source Schematic symbol, and promptly followed up with making a Voltage Source Schematic Symbol. I needed then for a personal project (that I am still working on...) and thought I'd try my hand at it.
+This was my first ever open source contribution. I made Current Source Schematic symbol, and promptly followed up with making a Voltage Source Schematic Symbol. I needed them for a personal project (that I am still working on...) and thought I'd try my hand at it.
 
-I ended up adding a fair few more parts, especially schematic ones and their IEC variants. They're only simple, but the Java 2D API was a good challenge for a budding developer. <br> 
+I ended up adding a fair few additional parts, especially schematic ones and their IEC variants. They're only simple, but the Java 2D API was a good challenge for a budding developer. <br> 
 
 ![My contributions to DIYLC.](/img/diylc-contribs.jpg)
 
