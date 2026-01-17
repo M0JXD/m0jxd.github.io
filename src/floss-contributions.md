@@ -11,12 +11,13 @@ Here's a couple of my more notable contributions, but I have sent in smaller bug
 
 ## Components for DIYLC
 
-These were my first ever open source contributions. They're only simple components, but the Java 2D API was a good challenge for a budding developer.
-I ended up adding a Voltage Source Symbol, Current Source Symbol (pictured), Bulb, Stingray Pickup, Buzzer Symbol and fixes/additions to the Resistor and Battery Symbols.
+This was my first ever open source contribution. I made Current Source Schematic symbol, and promptly followed up with making a Voltage Source Schematic Symbol. I needed then for a personal project (that I am still working on...) and thought I'd try my hand at it.
 
-![](/img/diylc-contribs.jpg)
+I ended up adding a fair few more parts, especially schematic ones and their IEC variants. They're only simple, but the Java 2D API was a good challenge for a budding developer. <br> 
 
-I even made some video tutorials in the end to help others get involved with contributing: <https://www.youtube.com/watch?v=a0dkfJJ4AgM&list=PLrKmpWTE8iQUW0RJYVDU6CNvc71-J55lI>
+![My contributions to DIYLC.](/img/diylc-contribs.jpg)
+
+I even made some [video tutorials](https://www.youtube.com/watch?v=a0dkfJJ4AgM&list=PLrKmpWTE8iQUW0RJYVDU6CNvc71-J55lI) to help others get involved with contributing. Sadly they're now outdated given DIYLC has switched to a Maven build system, but at least we don't need to use Eclipse anymore!
 
 ## Porting Textadept to Haiku
 
