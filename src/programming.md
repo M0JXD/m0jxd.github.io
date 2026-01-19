@@ -1,6 +1,6 @@
 ---
 title: Programming
-description: M0JXD's programming journey.
+description: M0JXD's Programming Journey.
 ---
 
 # {{ title }}
@@ -30,8 +30,7 @@ In 2022 I got a new job, and somehow I've ended up developing in C and Python fo
 
 This was my first exposure to Python, and I couldn't believe how easy it was! Of course anyone who's worked with Python long enough knows that comes at a price. IMO that price is Python's seemingly unsurmountable maintenance burden as new versions come out relentlessly, and packages get behind/abandoned, and while things never fully "break" they always seem to need "adjusting". The performance is obviously lower than C/C++ but honestly, that has never been my complaint, it's an aspect of the tool. However, white-space sensitive languages are quick to make my dislike list.
 
-Nonetheless they seemed pretty happy (dare I say impressed?) with my work on it. And then they got me writing C code!
-I love C, but man there are so many foot-guns! It's a never ending learning process.
+Nonetheless they seemed pretty happy (dare I say impressed?) with my work on it. And then they got me writing C code too. I love working with C a lot, but the language demands a lot of care, attention and respect.
 
 ---
 
@@ -39,10 +38,10 @@ As I've grown as developer, I've settled on a few languages/technologies that ar
 
 - C (and some C++) - These are the definitive languages that seem to underpin everything I'm interested in!
 - Lua - Lua is the language used in many tools I like, such as Textadept, REAPER and Xmake.
-- Dart - Mainly for Flutter, which I learned as it appealed to me a lot out of the choices for cross platform GUI toolkits, but I've found Dart to be a nice general purpose language outside of Flutter.
 - Python - I'm not really a fan of white-space sensitive languages, but Python is undeniably everywhere and easy to be productive with.
+- Dart - Mainly for Flutter, which I learned as it appealed to me a lot out of the choices for cross platform GUI toolkits, but I've found Dart to be a nice general purpose language outside of Flutter. However one thing I'm not so happy about is the lack of BSD platform support, so I'm considering some alternatives for a memory safe, performant and GUI suitable language.
 
-I've also used/encountered Bash, JavaScript (who hasn't?) and Rust, but am not as good at those!
+I've also used/encountered Bash, JavaScript (who hasn't?) and Rust, but am not as good at those. I still end up using Java sometimes too. Of course, languages are only half the story, so I'm learning more about DSA, popular libraries, Graphics and DSP, which reflect my personal interests.
 
 ---
 

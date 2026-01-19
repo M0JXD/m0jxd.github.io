@@ -17,6 +17,8 @@ AI has consistently made mistakes for me. I'm a junior and arguably mediocre dev
 
 Another example is when ChatGPT generated syntactically incorrect C code for the IUP GUI I was drafting for Axe-FX II loader. Runtime bugs are one thing, but making code that won't even compile due to syntax errors is another. Many pro-AI people say "it never makes a syntax errors", well let me tell you, PhD level smart ChatGPT 5.1 [most certainly did, you can see even the syntax highlighting goes haywire!](https://chatgpt.com/share/691b851f-0dc8-8001-83e1-f58034df940f).
 
+I think are people are overhyping AI so much. Yes, so we saw that Linus Torvalds vibe coded last week. Did you see what was actually vibe coded though? It's a 600 line Python script using Matplotlib to display data the same way the AI has seen it done many times in it's training data. The real good stuff, the audio effects, was done without AI's help.
+
 ## An old draft reply
 
 This is an old drafted reply to a conversation I was having on a popular online forum that I never posted, where the original poster proclaims to be a senior engineer who is using AI a lot in their job, with in-house AI's etc. and is convinced anyone not adapting to the technology will, quite frankly, get left behind. With some determination you can probably find the original post. I want to pull what I'm trying to say here into the page, but for now I've dumped it here for my own reference as I get this page fixed up, and also because even without context it sums up a lot of my complex feelings very well. BTW, I'm now not long turned 25.
