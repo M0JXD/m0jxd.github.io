@@ -39,9 +39,9 @@ As I've grown as developer, I've settled on a few languages/technologies that ar
 - C (and some C++) - These are the definitive languages that seem to underpin everything I'm interested in!
 - Lua - Lua is the language used in many tools I like, such as Textadept, REAPER and Xmake.
 - Python - I'm not really a fan of white-space sensitive languages, but Python is undeniably everywhere and easy to be productive with.
-- Dart - Mainly for Flutter, which I learned as it appealed to me a lot out of the choices for cross platform GUI toolkits, but I've found Dart to be a nice general purpose language outside of Flutter. However one thing I'm not so happy about is the lack of BSD platform support, so I'm considering some alternatives for a memory safe, performant and GUI suitable language.
+- Dart - Mainly for Flutter, which I learned as it appealed to me a lot out of the choices for cross platform GUI toolkits, but I've found Dart to be a nice general purpose language outside of Flutter. However one thing I'm not so happy about is the lack of BSD platform support, so I'm considering some alternatives for a memory safe, performant, portable and GUI suitable language. It's between Go and Rust at the moment!
 
-I've also used/encountered Bash, JavaScript (who hasn't?) and Rust, but am not as good at those. I still end up using Java sometimes too. Of course, languages are only half the story, so I'm learning more about DSA, popular libraries, Graphics and DSP, which reflect my personal interests.
+I've also used/encountered Bash and JavaScript (who hasn't?)  but am not as good at those. I still end up using Java sometimes too. Of course, languages are only half the story, so I'm learning more about DSA, popular libraries, and other topics.
 
 ---
 
