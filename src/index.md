@@ -13,9 +13,9 @@ The picture at the top is a very cute crotched version of a *certain popular blu
 
 To sum me up, I like:
 
-- [Electronics](electronics) - Fixing things, making things... there's something very satisfying about soldering parts together and seeing them work!
-- [Programming/Computers](programming) - My favoured programming languages are C, Lua, Python and more recently, Dart.
-- [Guitars and Music](guitars-and-music) - My heroes are Nuno Bettencourt, Guthrie Govan, Fast Eddie Clarke, Jun Senoue, Neal Schon, Brett Garsed...
+- [Electronics](/electronics) - Fixing things, making things... there's something very satisfying about soldering parts together and seeing them work!
+- [Programming/Computers](/programming) - My favoured programming languages are C, Lua, Python and more recently, Dart.
+- [Guitars and Music](/guitars-and-music) - My heroes are Nuno Bettencourt, Guthrie Govan, Fast Eddie Clarke, Jun Senoue, Neal Schon, Brett Garsed...
 - Gaming - I mostly mean retro style here, I love the classic Mega-Drive and PS2 games, but am also very excited for GTA VI!
 - Various other nerdy/geeky things - building Gundam models, Mathematics/Sciences, Rubik's cubes...
 
@@ -23,13 +23,13 @@ Oh, and food, and good TV 😊
 
 ## Here are some of the things I've done!
 
-- [My Soldano Amplifier Clone Build](soldano)
-- [Repairing Akta Bioscience Equipment](akta-repairs)
-- [Making a loading utility for the Axe-FX II](axeii-loader)
-- [Open Source Contributions](floss-contributions)
-- [A Morse Training Application](morse-trainer)
+- [My Soldano Amplifier Clone Build](/soldano)
+- [Repairing Akta Bioscience Equipment](/akta-repairs)
+- [Making a loading utility for the Axe-FX II](/axeii-loader)
+- [Open Source Contributions](/floss-contributions)
+- [A Morse Training Application](/morse-trainer)
 
 ## And some other ramblings...
 
-- [Professional life](work)
-- [Personal life](personal)
+- [Professional life](/work)
+- [Personal life](/personal)
