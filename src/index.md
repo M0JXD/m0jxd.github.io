@@ -5,7 +5,12 @@ description: MOJXD's (Jamie Drinkell's) Personal Website.
 
 Hi, welcome to my website! It's a small place so I can share a bit about me and what I like to do. It's kind of somewhere between a portfolio and blog site, but more informal and intentionally less organised.
 
-I've wanted my own page for some time, but I am not a web developer. With this in mind, I've opted to use 11ty with a fairly minimal amount of HTML/CSS. I chose to make the site this way in the spirit of my appreciation for fast, performant and minimalist software (but not to the extreme) that gets the job done well. Much of the site is still being wrote/constructed, and I am slowly learning more about web technology so I can make it nicer.
+I've wanted my own page for some time, but I am not a web developer. Hence the plainness in the design is three fold:
+- It matches the spirit of my appreciation for fast, performant and minimalist leaning software that gets the job done well.
+- I like the style, it has a mid certain naughties nostalgia of how personal sites looked like when I was first on the internet.
+- This is really the limit of my HTML/CSS knowledge (although I'm slowly learning more).
+
+We're not completely without modern niceties though: I'm using 11ty and Markdown, with GitHub pages to host. There's also support for preferred dark mode and smaller screens.
 
 The picture at the top is a very cute crotched version of a *certain popular blue hedgehog* that my sister made for me. I use it as a profile picture on most platforms.
 
