@@ -5,7 +5,7 @@ description: Write up on building a Soldano Amplifier Clone.
 
 # {{ title }}
 
-I first knew I wanted a SLO-100 when I found out one of my guitar idols, Jun Senoue (you did see the bit on Retro gaming right?) was a prominent user. Well it turns out they're kinda pricey, so I built one! There's a great community of builders too, even with their own forum. Of course many of my other heroes have used them too - Nuno, EVH... and anyone who uses a Mesa Rectifier or Peavey 5150 is using a derived circuit with that oh so important 39k cathode resistor. However it's FAR too loud so I don't play it as much as I'd like too, but it is a wicked monster of an amp.
+I first knew I wanted a SLO-100 when I found out one of my guitar idols, Jun Senoue (you did see the bit on retro gaming right?) was a prominent user. Well it turns out they're kinda pricey, so I built one! There's a great community of builders too, even with their own forum. Of course many of my other heroes have used them too - Nuno, EVH... and anyone who uses a Mesa Rectifier or Peavey 5150 is using a derived circuit with that oh so important 39k cathode resistor. However it's FAR too loud so I don't play it as much as I'd like too, but it is a wicked monster of an amp.
 
 ![Soldano Amp](/img/soldano/finished/SLOCLONE_COMPLETE.jpg)
 
