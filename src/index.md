@@ -7,7 +7,7 @@ Hi, welcome to my website! It's a small place so I can share a bit about me and 
 
 I've wanted my own page for some time, but I am not a web developer. Hence the plainness in design is three fold:
 - It matches the spirit of my appreciation for fast, performant and minimalist leaning software that gets the job done well.
-- I like the style, it has a mid certain naughties nostalgia of how people's personal sites looked like when I was first on the internet.
+- I like the style, it has a certain mid-naughties nostalgia of how people's personal sites looked like when I was first on the internet.
 - This is really the limit of my HTML/CSS knowledge (although I'm slowly learning more).
 
 We're not completely without modern niceties though: I'm using 11ty and Markdown, with GitHub pages to host. There's also support for preferred dark mode and smaller screens.
