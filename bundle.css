@@ -1,11 +1,5 @@
 /* Main CSS file for my site */
-
 /*  The light Version of this site uses named colours for good compliance */
-
-/* Set border-box everywhere */
-*, *::before, *::after {
-  box-sizing: border-box;
-}
 
 html, body {
   height: 100%;
@@ -27,6 +21,7 @@ body > main > p {
 }
 
 header {
+  box-sizing: border-box;
   width: 100%;
   height: 70px;
   display: flex;
