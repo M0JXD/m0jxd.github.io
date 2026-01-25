@@ -5,7 +5,7 @@ description: M0JXD's FLOSS contributions.
 
 # {{ title }}
 
-I love open source and am a passionate (but hopefully not insufferable) Linux user.
+I love open source and am a passionate (but hopefully not insufferable) Linux user, (I'm also experimenting with FreeBSD).
 Some of my free time goes towards contributing/bug-fixing open source projects I use and care about.
 Here's a couple of my more notable contributions, but I have sent in smaller bugfixes/additions to a variety of projects now.
 
@@ -26,7 +26,6 @@ In early 2025, I ported the Textadept editor to Haiku. While it's not feature co
 ![](/img/textadept-haiku-1.jpg)
 ![](/img/textadept-haiku-2.jpg)
 
-I've also sent in some fixes for Textadept, and made some modules too, e.g. [Discord Rich Presence integration](https://github.com/M0JXD/textadept-discord-rpc).
-I also have a [custom build to run on Windows 7](https://github.com/M0JXD/textadept/releases/tag/13-alpha-win7) (just for funsies - please don't continue to use unsupported operating systems).
+I've also sent in some fixes for Textadept, and made some other things too, e.g. [Discord Rich Presence integration](https://github.com/M0JXD/textadept-discord-rpc) and a [custom build for Windows 7](https://github.com/M0JXD/textadept/releases/tag/13-alpha-win7) (just for funsies - please don't continue to use unsupported operating systems).
 
 As a side-note - Textadept is just awesome and I can't recommend it enough if you are developer looking for what is essentially a hyper scriptable notepad for programmers.

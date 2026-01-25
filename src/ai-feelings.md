@@ -27,13 +27,13 @@ Another example is when ChatGPT generated syntactically incorrect C code for the
 
 Frankly, I'm quite capable of making my own terrible code, I don't need a computer to write it. If the AI writes something wrong, I then have to spend ages trying to read the code (which as we all know is harder than writing code) to then be able to fix it. If I write it, then by nature I've already read it and debugging goes quicker.
 
-I think are people are overhyping AI so much. Yes, so we saw that Linus Torvalds vibe coded last week. Did you see what was actually vibe coded though? It's a 600 line Python script using Matplotlib to display data the same way the AI has seen it done many times in it's training data. The real good stuff, the audio effects, was done without AI's help.
+I think are people are overhyping AI so much. Yes, so we saw that Linus Torvalds vibe coded for his AudioNoise project. Did you see what was actually vibe coded though? It's a 600 line Python script using Matplotlib to display data the same way the AI has seen it done many times in it's training data. The real good stuff, the audio effects, was done without AI's help.
 
 I don't know if it's truly related to the AI explosion, but I feel there's been a general decline in software quality over the last few years. More internet/services outages than I remember previously, and my experience with Windows 11 has been terrible compared it's predecessors.
 
 ## An old draft reply
 
-This is an old drafted reply to a conversation I was having on a popular online forum that I never posted, where the original poster proclaims to be a senior engineer who is using AI a lot in their job, with in-house AI's etc. and is convinced anyone not adapting to the technology will, quite frankly, get left behind. With some determination you can probably find the original post. I want to pull what I'm trying to say here into the page, but for now I've dumped it here for my own reference as I get this page fixed up, and also because even without context it sums up a lot of my complex feelings very well. BTW, I'm now not long turned 25.
+This is an old drafted reply to a conversation I was having on a popular online forum that I never posted, where the original poster proclaims to be a senior engineer who is using AI a lot in their job, with in-house AI's etc. and is convinced anyone not adapting to the technology will, quite frankly, get left behind. With some determination you can probably find the original post. I want to pull what I'm trying to say here into the page, but for now I've dumped it here for my own reference as I get this page fixed up, and also because even without context it sums up a lot of my complex feelings very well. To note, I'm now not long turned 25.
 
 ---
 

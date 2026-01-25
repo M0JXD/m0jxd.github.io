@@ -1,6 +1,6 @@
 ---
 title: Synsonic Keyboard Repair
-description: Doing the HF mod on a Quansheng UV-K5 Radio
+description: Cleaning up and fixing an old music keyboard.
 created: "Monday, 19 January 2026"
 ---
 

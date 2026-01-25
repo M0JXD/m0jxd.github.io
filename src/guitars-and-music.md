@@ -7,7 +7,7 @@ description: M0JXD's (Jamie Drinkell's) Guitar Playing.
 
 I'm a keen guitarist, and have previously been in bands. For various reasons I have not been in a band for quite some time, but still share my playing on social media. I'm by no means popular or consistent, but I do find it fun.
 
-Due to copyright, I won't share/upload the videos directly. However I can add embeds from the social platforms which bypasses this. I have picked a few of my favourites from over the years to add here (they are not necessarily my best performing videos). Most of the links are from YouTube, but a couple are TikTok embeds as YouTube's copyright is much stricter with regards to what I'm allowed to post. I apologise that TikTok embeds sadly attempt to autoplay and can not be aligned as I would like.
+Due to copyright, I won't share/upload the videos directly. However I can add embeds from the social platforms which bypasses this. I have picked a few of my favourites from over the years to add here (they are not necessarily my best performing videos). Most of the links are from YouTube, but as YouTube's copyright is much stricter with regards to what I'm allowed to post I'm using TikTok embeds as an alternative when needed. I apologise that TikTok sadly attempt to autoplay and can not be aligned as I would like.
 
 ---
 Cover of the main solo from "Sweet Child O' Mine" by Guns and Roses:

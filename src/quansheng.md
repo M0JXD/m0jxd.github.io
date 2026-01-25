@@ -1,6 +1,6 @@
 ---
 title: Quansheng HF Modification
-description: Doing the HF mod on a Quansheng UV-K5 Radio
+description: Doing the HF mod on a Quansheng UV-K5 Radio.
 created: "Monday, 19 January 2026"
 ---
 
