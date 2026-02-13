@@ -33,7 +33,7 @@ I don't know if it's truly related to the AI explosion, but I feel there's been 
 
 ## An old draft reply
 
-This is an old drafted reply to a conversation I was having on a popular online forum that I never posted, where the original poster proclaims to be a senior engineer who is using AI a lot in their job, with in-house AI's etc. and is convinced anyone not adapting to the technology will, quite frankly, get left behind. With some determination you can probably find the original post. I want to pull what I'm trying to say here into the page, but for now I've dumped it here for my own reference as I get this page fixed up, and also because even without context it sums up a lot of my complex feelings very well. To note, I'm now not long turned 25.
+This is an old drafted reply to a conversation I was having on a popular online forum that I never posted, where the original poster proclaims to be a senior engineer who is using AI a lot in their job, with in-house AI's etc. and is convinced anyone not adapting to the technology will, quite frankly, get left behind. With some determination you can probably find the original post. I want to pull what I'm trying to say here into the page, but for now I've dumped it here for my own reference as I get this page fixed up, and also because even without context it sums up a lot of my complex feelings very well. To note, I'm now 25.
 
 ---
 
