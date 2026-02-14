@@ -30,13 +30,19 @@
 I had gained a big appreciation for applications that look/feel native to the OS and are performant, and also wanted to continue using C (not C++).</p>
 <p>With those constraints, there's only a handful of choices for the UI library. I settled on IUP over the others like GTK, NAppGUI, libui etc. for a small variety of reasons, and feel the app turned out very well in the end. Not long after finishing the first version, I had a lot of help from the user @Wepeell who tested and logged MIDI transfers with their XL+ unit, allowing me to implement support for them too.</p>
 <p><img src="/img/axe-loader/axeiiloader-native.jpg" alt=""></p>
+<h2>Update 13/02/26 - Porting to FreeBSD</h2>
+<p>For the last while I've been trying to see if FreeBSD might be a viable desktop option for me (it has many appealing qualities over Linux). The first thing to fix was making my Axe-FX II unit work. Making a <a href="https://github.com/M0JXD/axefx2-usb-installer/blob/main/fractal.conf">devd</a> rule for it's USB driver was fairly easy, so next up was my loader and using OSS MIDI.</p>
+<p>I quickly found out that IUP does not build on FreeBSD at the moment. IUP is sadly on low maintenance, so was again looking at making a new UI.
+In this case I decided to cut the middle man and make the GUI with GTK3 direct, as XFCE and Cinnamon (my two favourite DE's) are still GTK3 based, and don't seem to be porting to GTK4 any time soon. I'll port when the time comes. I used Glade anyways so most of it was cheating!</p>
+<p>OSS MIDI is still not fully documented it seems, and using it on a USB MIDI (umidi) devices is quite unimplemented, as OSS's device listing utilities don't work nor does getting the device name. I had to run the transfer in a thread for the UI version as GTK's event loop is too slow to run between natural gaps in the MIDI receive loop. But alas, it does work!</p>
+<p><img src="/img/axe-loader/axeiiloader-gtk.jpg" alt=""></p>
 
         </article>
         <p><em>
         <br>
         Page created: Thursday, 18 December 2025
         <br>
-        Last modified: Thursday, 8 January 2026
+        Last modified: Saturday, 14 February 2026
         </em><p>
     </main>
     <footer>
