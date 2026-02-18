@@ -1,4 +1,4 @@
-const { DateTime } = require("luxon");
+const DateTime = require("luxon").DateTime;
 
 module.exports = function (eleventyConfig) {
 	eleventyConfig.addPassthroughCopy("bundle.css");
@@ -13,5 +13,3 @@ module.exports.config = {
 	markdownTemplateEngine: "njk",
 	htmlTemplateEngine: "njk",
 };
-
-
