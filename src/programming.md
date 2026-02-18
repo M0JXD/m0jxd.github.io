@@ -40,7 +40,7 @@ As I've grown as developer, I've settled on a few languages/technologies that ar
 - Lua - Lua is the language used in many tools I like, such as Textadept, REAPER and Xmake.
 - Python - I'm not really a fan of white-space sensitive languages, but Python is undeniably everywhere and easy to be productive with.
 
-I have also spent a fair amount of time learning Dart, mainly for Flutter, which I learned as it appealed to me a lot out of the choices for cross platform GUI toolkits, but I found Dart to be a nice general purpose language outside of Flutter. However one thing I'm not so happy about is the lack of BSD platform support, so I'm considering some alternatives for a memory safe, performant, portable and GUI suitable language. Go (with Fyne) is looking to be an increasingly appealing option and also fills other gaps in my "tech stack" for a language that makes CLI/TUI apps a breeze and is suitable for back-end work.
+I have also spent a fair amount of time learning Dart, mainly for Flutter, which I learned as it appealed to me a lot out of the choices for cross platform GUI toolkits, but I found Dart to be a nice general purpose language outside of Flutter. However one thing I'm not so happy about is the lack of BSD platform support, so I've started using C and C++ more often for GUI apps.
 
 I've also used/encountered Bash and JavaScript (who hasn't?)  but am not as good at those. I still end up using Java sometimes too. Of course, languages are only half the story, so I'm always learning more!
 
