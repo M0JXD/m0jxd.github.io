@@ -1,7 +1,8 @@
 /* Main CSS file for my site */
 /*  The light Version of this site uses named colours for good compliance */
 
-html, body {
+html,
+body {
   height: 100%;
   margin: 0;
   padding: 0;
@@ -145,7 +146,8 @@ iframe {
 
 /* Dark Mode */
 @media (prefers-color-scheme: dark) {
-  html, body {
+  html,
+  body {
     color: #a69d8e;
     background-color: #1e2021;
   }

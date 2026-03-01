@@ -1,5 +1,5 @@
 {
-	"layout": "layout.njk",
-	"date": "git Last Modified",
-	"created": "Thursday, 18 December 2025"
+  "layout": "layout.njk",
+  "date": "git Last Modified",
+  "created": "Thursday, 18 December 2025"
 }

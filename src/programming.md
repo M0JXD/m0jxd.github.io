@@ -13,16 +13,16 @@ Feel free to ignore this page and look at the project ones instead!
 As a kid my dad had always wanted me to learn programming. He would constantly try to get me interested.
 Bless his heart, he just couldn't get me to take notice. I was too occupied with the PlayStation 2!
 
-I finally started learning a bit about programming in 2021. In my previous job I'd worked in Electronics Engineering/Repair, and I knew it was a skill I was going to need to be able to kickstart my career seriously. So one day I picked up a book that had been lying around for years called *"C++ For Dummies"* and just read it. I didn't really do many of the exercises, but did have fun making silly console programs with my new-found knowledge.
+I finally started learning a bit about programming in 2021. In my previous job I'd worked in Electronics Engineering/Repair, and I knew it was a skill I was going to need to be able to kickstart my career seriously. So one day I picked up a book that had been lying around for years called _"C++ For Dummies"_ and just read it. I didn't really do many of the exercises, but did have fun making silly console programs with my new-found knowledge.
 
 Sadly I did not know how destructive this book would be, it was pre C++11 and never once mentions std::vector anywhere...
-Luckily, this particular C++ subset is very close to what Arduino uses, and empowered that I could finally completely understand the short *"Getting Started with Arduino"* book we had laying around, and felt like I could make anything. Not too long after, I went on to read another book called *"Learn C in 21 Days (Fourth Edition)"*. Lucky for me, C has not changed very much at all! I found this book a magnitude more fascinating than the first. C is such a beautiful language!
+Luckily, this particular C++ subset is very close to what Arduino uses, and empowered that I could finally completely understand the short _"Getting Started with Arduino"_ book we had laying around, and felt like I could make anything. Not too long after, I went on to read another book called _"Learn C in 21 Days (Fourth Edition)"_. Lucky for me, C has not changed very much at all! I found this book a magnitude more fascinating than the first. C is such a beautiful language!
 
 You probably notice something lacking thing here: Projects. Funnily enough despite learning C/C++, [my first project](/valve-analyser-plotter) was actually in Processing, which is essentially a library for Java with a beginner friendly preprocessor.
 
 After that project and those books, I started seeing problems in my computing life that I realised I could fix. My first ever [open source contribution](/floss-contributions) was again in Java.
 
-I went on to read and learn *"The Black Art of Video Game Console Design"* by Andre LaMothe. Whilst this book is mostly about the electronics side of things, there's also a lot assembly and C code for 6502 and SX52 (basically a super PIC) prototype console designs he demonstrated.
+I went on to read and learn _"The Black Art of Video Game Console Design"_ by Andre LaMothe. Whilst this book is mostly about the electronics side of things, there's also a lot assembly and C code for 6502 and SX52 (basically a super PIC) prototype console designs he demonstrated.
 
 ---
 
@@ -42,8 +42,8 @@ As I've grown as developer, I've settled on a few languages/technologies that ar
 
 I have also spent a fair amount of time learning Dart, mainly for Flutter, which I learned as it appealed to me a lot out of the choices for cross platform GUI toolkits, but I found Dart to be a nice general purpose language outside of Flutter. However one thing I'm not so happy about is the lack of BSD platform support, so I've started using C and C++ more often for GUI apps.
 
-I've also used/encountered Bash and JavaScript (who hasn't?)  but am not as good at those. I still end up using Java sometimes too. Of course, languages are only half the story, so I'm always learning more!
+I've also used/encountered Bash and JavaScript (who hasn't?) but am not as good at those. I still end up using Java sometimes too. Of course, languages are only half the story, so I'm always learning more!
 
 ---
 
-I do sort of wish I'd started with programming earlier. Starting in my early 20s already made me feel as if I was behind all the whizz kids you hear about (although frankly at school I don't remember anyone knowing *any* programming). At the same time, I don't think I had the maturity to stick with such books/materials and learn things properly until my 20s either. However, any age is a good age to learn so I'm trying to learn about 3D Graphics, DSA and DSP (I am a few chapters into The Scientist And Engineer's Guide to DSP).
+I do sort of wish I'd started with programming earlier. Starting in my early 20s already made me feel as if I was behind all the whizz kids you hear about (although frankly at school I don't remember anyone knowing _any_ programming). At the same time, I don't think I had the maturity to stick with such books/materials and learn things properly until my 20s either. However, any age is a good age to learn so I'm trying to learn about 3D Graphics, DSA and DSP (I am a few chapters into The Scientist And Engineer's Guide to DSP).
