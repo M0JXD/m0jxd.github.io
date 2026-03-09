@@ -34,7 +34,7 @@ I had gained a big appreciation for applications that look/feel native to the OS
 <p>For the last while I've been trying to see if FreeBSD might be a viable desktop option for me (it has many appealing qualities over Linux). The first thing to fix was making my Axe-FX II unit work. Making a <a href="https://github.com/M0JXD/axefx2-usb-installer/blob/main/fractal.conf">devd</a> rule for it's USB driver was fairly easy, so next up was my loader and using OSS MIDI.</p>
 <p>I quickly found out that IUP does not build on FreeBSD at the moment. IUP is sadly on low maintenance, so was again looking at making a new UI.
 In this case I decided to cut the middle man and make the GUI with GTK3 direct, as XFCE and Cinnamon (my two favourite DE's) are still GTK3 based, and don't seem to be porting to GTK4 any time soon. I'll port when the time comes. I used Glade anyways so most of it was cheating!</p>
-<p>OSS MIDI is still not fully documented it seems, and using it on a USB MIDI (umidi) devices is quite unimplemented, as OSS's device listing utilities don't work nor does getting the device name. I had to run the transfer in a thread for the UI version as GTK's event loop is too slow to run between natural gaps in the MIDI receive loop. But alas, it does work!</p>
+<p>OSS MIDI is still not fully documented it seems, and using it on USB MIDI (umidi) devices is quite unimplemented, as OSS's device listing utilities don't work nor does getting the device name. I had to run the transfer in a thread for the UI version as GTK's event loop is too slow to run between natural gaps in the MIDI receive loop. But alas, it does work!</p>
 <p><img src="/img/axe-loader/axeiiloader-gtk.jpg" alt=""></p>
 
         </article>
@@ -42,7 +42,7 @@ In this case I decided to cut the middle man and make the GUI with GTK3 direct, 
         <br>
         Page created: Thursday, 18 December 2025
         <br>
-        Last modified: Sunday, 1 March 2026
+        Last modified: Monday, 9 March 2026
         </em><p>
     </main>
     <footer>
