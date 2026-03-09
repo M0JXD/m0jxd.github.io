@@ -9,7 +9,7 @@ A friend of mine had some boards to fix for his company, and reached out to me r
 
 ## P900
 
-He first sent me a pair of P900 boards. Both of these boards were tired and would fail under the load of the motors. Without many details to go on, the best option I knew was to recap the boards. While a recap isn't the guaranteed fix many repair engineers make it out to be, they are generally the most likely component to go wrong with ageing. Other components simply don't deteriorate from sitting around like they do, and they are from the 90s after all.
+He first sent me a pair of P900 boards. Both of these boards were tired and would fail under the load of the motors. Without many details to go on, the best option I knew was "recapping" the boards. While recapping isn't the guaranteed fix many repair engineers make it out to be, they are generally the most likely component to go wrong with ageing. Other components simply don't deteriorate from sitting around like they do, and these boards are from the 90s after all.
 
 Thankfully this fixed both of the boards! Sadly I didn't think to grab an after photo, but here are the before photos.
 
@@ -18,7 +18,7 @@ Thankfully this fixed both of the boards! Sadly I didn't think to grab an after 
 
 ## FRAC-950
 
-After the success of the P900, a few months later he gave me another pair of boards, this time belonging to FRAC-950s. Whilst the first board only needed a recap again, the second had experienced a much worse fate!
+After the success of the P900, a few months later he gave me another pair of boards, this time belonging to FRAC-950s. Whilst the first board only needed recapping again, the second had experienced a much worse fate!
 
 ![](/img/akta-pcbs/frac950-1.jpg)
 ![](/img/akta-pcbs/frac950-2.jpg)
@@ -31,7 +31,7 @@ As the main failure part was the mains input area, I test ran the low voltage ci
 
 ![](/img/akta-pcbs/frac950-4.jpg)
 
-The pad had burnt out so I had to run some wiring underneath. This board had a full recap too.
+The pad had burnt out so I had to run some wiring underneath. This board was recapped too.
 
 ![](/img/akta-pcbs/frac950-5.jpg)
 
