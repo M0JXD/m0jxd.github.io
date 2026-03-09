@@ -13,12 +13,12 @@ Compared to what's covered on this website that I've done as a hobbyist, it shou
 
 Over my career I have experienced:
 
-- Building/Developing Prototypes (I've joked that if they ever get me to do a PCB that I've began to think in Veroboard lines!)
+- Building/Developing prototypes (I've joked that if they ever get me to do a PCB that I've began to think in Veroboard lines!)
 - Embedded development on Atmel SAM processors with FreeRTOS and ASF4
-- Microsoft Windows Development with Visual Studio in C/C++
-- CAD Design
-- PCB Design Checking/Reviews
-- Python scripting
+- CAD design drawings
+- PCB design checking/reviews
+- Python scripting using libraries like OpenCV, NumPy, Pillow and Matplotlib
+- Microsoft Windows development with Visual Studio in C/C++
 - Some training/education on FPGA and VHDL
 
 In the spirit of honesty, I don't have a degree, but I do have qualification(s) relevant to the field. It's not that I never wanted to, it's just one of those things that hasn't happened (yet?).
