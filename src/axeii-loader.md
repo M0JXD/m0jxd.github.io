@@ -29,6 +29,6 @@ For the last while I've been trying to see if FreeBSD might be a viable desktop 
 I quickly found out that IUP does not build on FreeBSD at the moment. IUP is sadly on low maintenance, so was again looking at making a new UI.
 In this case I decided to cut the middle man and make the GUI with GTK3 direct, as XFCE and Cinnamon (my two favourite DE's) are still GTK3 based, and don't seem to be porting to GTK4 any time soon. I'll port when the time comes. I used Glade anyways so most of it was cheating!
 
-OSS MIDI is still not fully documented it seems, and using it on a USB MIDI (umidi) devices is quite unimplemented, as OSS's device listing utilities don't work nor does getting the device name. I had to run the transfer in a thread for the UI version as GTK's event loop is too slow to run between natural gaps in the MIDI receive loop. But alas, it does work!
+OSS MIDI is still not fully documented it seems, and using it on USB MIDI (umidi) devices is quite unimplemented, as OSS's device listing utilities don't work nor does getting the device name. I had to run the transfer in a thread for the UI version as GTK's event loop is too slow to run between natural gaps in the MIDI receive loop. But alas, it does work!
 
 ![](/img/axe-loader/axeiiloader-gtk.jpg)
