@@ -35,5 +35,5 @@ Oh, and food, and good TV 😊
 
 ## And some other ramblings...
 
-- [Professional life](/work)
+- [Professional life](/professional)
 - [Personal life](/personal)
