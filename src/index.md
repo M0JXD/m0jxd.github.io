@@ -3,9 +3,7 @@ title: M0JXD's Website - Homepage
 description: MOJXD's (Jamie Drinkell's) Personal Website.
 ---
 
-Hi, welcome to my website! It's a small place so I can share a bit about me and what I like to do. It's kind of somewhere between a portfolio and blog site, but more informal and intentionally less organised.
-
-I've wanted my own page for some time, but I am not a web developer. Hence the plainness in design is three fold:
+Hi, welcome to my website! It's a small place so I can share a bit about me and what I like to do. It's kind of somewhere between a portfolio and blog site, but more informal and intentionally less organised. I've wanted my own page for some time, but I am not a web developer. Hence the plainness in design is three fold:
 
 - It matches the spirit of my appreciation for fast, performant and minimalist leaning software that gets the job done well.
 - I like the style, it has a certain mid-naughties nostalgia of how people's personal sites looked like when I was first on the internet.

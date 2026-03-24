@@ -1,5 +1,5 @@
 ---
-title: Work
+title: Professional Skills
 description: Jamie Drinkell's Work Experience.
 ---
 
@@ -19,7 +19,7 @@ Over my career I have experienced:
 - PCB design checking/reviews
 - Python scripting using libraries like OpenCV, NumPy, Pillow and Matplotlib
 - Microsoft Windows development with Visual Studio in C/C++
-- Some training/education on FPGA and VHDL
+- Some training/education on FPGA and VHDL technology
 
 In the spirit of honesty, I don't have a degree, but I do have qualification(s) relevant to the field. It's not that I never wanted to, it's just one of those things that hasn't happened (yet?).
 
