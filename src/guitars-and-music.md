@@ -11,7 +11,7 @@ blockquote {
 
 # {{ title }}
 
-I'm a keen guitarist, and have previously been in bands. For various reasons I have not been in a band for quite some time, but still share my playing on social media. I'm by no means popular or consistent, but I do find it fun.
+I'm a keen guitarist and have played for over half my life now. I love the instrument dearly and there's so much fun to be had making music. While I've previously been in bands, for various reasons I have not been in a band for quite some time, but still share my playing on social media. I'm by no means popular or consistent, but I do find it fun. I consider myself to have a varied music taste, I consider the phrase "from Django to Djent" to be fitting! Sadly I am not very skilled across all those genres so most of my playing is covering Rock and Metal classics.
 
 Due to copyright, I won't share/upload the videos directly. However I can add embeds from the social platforms which bypasses this. I have picked a few of my favourites from over the years to add here (they are not necessarily my best performing videos). Most of the links are from YouTube, but as YouTube's copyright is much stricter with regards to what I'm allowed to post I'm using TikTok embeds as an alternative when needed. I apologise that TikTok sadly attempts to autoplay and can not be aligned as I would like.
 
