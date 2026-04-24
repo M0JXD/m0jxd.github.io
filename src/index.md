@@ -9,7 +9,7 @@ Hi, welcome to my website! It's a small place so I can share a bit about me and 
 - I like the style, it has a certain mid-naughties nostalgia of how people's personal sites looked like when I was first on the internet.
 - This is really the limit of my HTML/CSS knowledge (although I'm slowly learning more).
 
-We're not completely without modern niceties though: I'm using 11ty and Markdown, with GitHub pages to host. There's also support for preferred dark mode and smaller screens.
+We're not completely without modern niceties though: I'm using 11ty and Markdown, with GitHub pages to host (well, except for the time I ran it over [packet radio](/packet-radio)). There's also support for preferred dark mode and smaller screens.
 
 The picture at the top is a very cute crotched version of a _certain popular blue hedgehog_ that my sister made for me. I use it as a profile picture on most platforms.
 

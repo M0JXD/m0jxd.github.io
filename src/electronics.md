@@ -21,6 +21,7 @@ Here are the pages on my electronics focused projects:
 - [Synsonic Keyboard Repair](/synsonic-keyboard)
 - [My Soldano Amplifier Clone Build](/soldano)
 - [Repairing Akta Bioscience Equipment](/akta-repairs)
+- [Packet Radio](/packet-radio)
 
 ### TODO - Projects I'm planning to add/discuss
 
@@ -28,5 +29,4 @@ I'm planning to work on and/or make some pages for these projects, so I've liste
 
 - Satellite Tracker
 - PCB designs
-- NinoTNC
 - mcHF
