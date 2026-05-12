@@ -15,7 +15,9 @@ But by far the biggest hurdle preventing me from truly diving into BSD is music 
 
 Eventually I caved on _needing_ a FLOSS tool and now I'm a happy REAPER user. I really like REAPER as using a professional, popular and cross platform DAW is really important to me, as I need to know that if I head into a studio or start collaborating with others, the software I use works. Yet at this time, FreeBSD is not a platform REAPER supports natively. There has been some luck using the Linux emulation, but there is always caveats. While I wait for BSD to be popular enough to warrant support by major DAW developers, I'll try and bridge the gap so FreeBSD becomes ever more viable and the workflows I need at least exist.
 
-First up I needed to get my music gear working, namely my trusty Axe-FX II. [Thankfully that went quite well](/axeii-loader/#:~:text=Update%2013%2F02%2F26%20%2D%20Porting%20to%20FreeBSD) but UAC2 devices are definitely not perfect quite yet, as there's a seriously delay before recording starts when using it in Audacity via OSS, and JACK outright fails. Thankfully my Scarlett 2i2 works flawlessly.
+First up I needed to get my music gear working, namely my trusty Axe-FX II. [Thankfully that went quite well](/axeii-loader/#:~:text=Update%2013%2F02%2F26%20%2D%20Porting%20to%20FreeBSD) but UAC2 devices are definitely not perfect quite yet, as there's a seriously delay before recording starts when using it in Audacity via OSS, and JACK outright fails. Thankfully my Scarlett 2i2 works flawlessly. Here's a picture of me running FreeBSD on my netbook for testing and development, I was pretty amazed at how nippy it was compared to Debian and Windows 7 that it had been using before.
+
+![](/img/bsd-on-netbook.jpg)
 
 I wrote a [script for Audacity](https://github.com/M0JXD/audacity-multitake) to handle the "looped multitakes" feature. I had thought previously about maybe diving into Audacity's code to integrate it with the the new looped selection feature, but with the move to v4 they're discouraging contributions right now and that also demands signing a CLA. The script is stupidly simple, but better than nothing and works on FreeBSD.
 
