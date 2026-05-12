@@ -16,13 +16,10 @@ The usual disassembly ensues...
 
 ![](/img/psio-install/disassemble-1.jpg)
 ![](/img/psio-install/disassemble-2.jpg)
-<!--![](/img/psio-install/pcb-removed.jpg)-->
 
 Despite the installation manual stating that the board should have tape, it didn't (probably because it's just the original manual). Guess you're expected to use your own:
 
 ![](/img/psio-install/pcb-needs-tape.jpg)
-<!--![](/img/psio-install/pcb-back-before.jpg)-->
-<!--![](/img/psio-install/tape-applied.jpg)-->
 ![](/img/psio-install/stuck-down.jpg)
 
 Now on to the fun part! First up was cutting the trace to the parallel port's pin five, and then adding the enable wire:
