@@ -1,5 +1,5 @@
 ---
-title: PlayStation PSIO Install
+title: PlayStation PSIO Switchboard Install
 description: Installing the PSIO switchboard in a PlayStation.
 created: "Tuesday, 12 May 2026"
 ---
@@ -45,7 +45,7 @@ At this point I checked over and assembled the console to find that it didn't wo
 
 ![](/img/psio-install/pointless-protection-diode.jpg)
 
-Before fully reassembling again I tested both disc and PSIO loading, they'd already put some games on the card (cheeky!).
+Before fully reassembling again I tested PSIO loading (the disc loading still works too), they'd already put some games on the card (cheeky!).
 
 ![](/img/psio-install/testing-1.jpg)
 ![](/img/psio-install/testing-2.jpg)
