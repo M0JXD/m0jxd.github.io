@@ -16,16 +16,37 @@ And the super best thing? After a clean up and some contact cleaner, all of thes
 Mildly disappointing for my electronics side, as it's always fun to try have a reason to open up these classics and repair them, but so amazing to be able to play them!
 So I've been absolutely getting back into gaming of recent, playing the original Mario especially. Also helps that the new Super Mario Galaxy movie is in theatres too.
 
-Mainly as a TODO list for myself, my plans for these are:
-
-- Buy some "everdrive" style cartridges for the NES and Master System so we can play lots of games!
-- Sort out an extra supply and cabling so one NES can be the family one, and one can be mine (hehehe).
-- Get a PSIO system for the PlayStation, which will also be for family use (we have a slim PSOne that I have been intent on modchipping for my use).
-
-And well, with getting into a Mario mood I couldn't help but play some Super Mario Galaxy on the Wii! I finally got all 120 stars and can play as Luigi! Here's some pictures from towards the end of that playthrough:
+And well, with getting into a Mario mood I couldn't help but play some Super Mario Galaxy on the Wii too! I finally got all 120 stars and can play as Luigi! Here's some pictures from towards the end of that playthrough:
 
 ![](/img/gaming/mario-galaxy-1.jpg)
 ![](/img/gaming/mario-galaxy-2.jpg)
+
+I've [modified the PlayStation](/psio-install) in the picture for a PSIO unit, and have been setting up my own stash of consoles!
+
+![](/img/consoles-together.jpg)
+
+Yes, that's right, there's a PS5 plugged into a CRT. They call my crazy.
+
+## Wii Modding
+
+We have two Wii's in our family, and for a long time the disc drive in the first one we owned has been broken. After finishing the game of Super Mario Galaxy on the other Wii, I realised I should get this up and running with homebrew! I used the str2hax method:
+
+![](/img/wii-mod/str2hax.jpg)
+![](/img/wii-mod/str2hax2.jpg)
+
+As always, backup the NAND! But now the homebrew channel is installed!
+
+![](/img/wii-mod/bootmii-nand.jpg)
+![](/img/wii-mod/homebrew-installed.jpg)
+
+It was time to set up my dumped games for USB Loader GX, with some help from TinyWiiBackupManager 🙂.
+
+![](/img/wii-mod/tinywiibackupmanager.jpg)
+![](/img/wii-mod/dumped-games.jpg)
+
+And what better way to test than a bit of Sonic Adventure 2? I still need to get *all* A ranks, but I'm well on my way!
+
+![](/img/wii-mod/sa2-a-ranks.jpg)
 
 ## Favourites
 
@@ -36,7 +57,7 @@ Here's a very haphazard list of some of my favourite games:
 - The Batman Arkham Games
 - Gran Turismo 3: A-Spec
 - Project Gotham Racing 3
-- Spyro (OG Trilogy, A Hero's Tail, I even liked the New Beginning games)
+- Spyro (OG Trilogy, A Hero's Tail, I even liked the "Legend Of" games)
 - Ratchet & Clank
 - PS2 era Need For Speed Games (Underground 2, Carbon)
 - Zone Of The Enders
@@ -44,3 +65,5 @@ Here's a very haphazard list of some of my favourite games:
 - Super Mario Galaxy
 - Insomniac Spider-Man Games
 - The Last Of Us I and II
+- Tank Racer
+
