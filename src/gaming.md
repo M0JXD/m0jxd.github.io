@@ -67,3 +67,12 @@ Here's a very haphazard list of some of my favourite games:
 - The Last Of Us I and II
 - Tank Racer
 
+## Obligitary
+
+Dear Sony & Rockstar Games (and possibly Microsoft),
+
+I'm not gonna buy your latest games/consoles if physical media is not an option.
+
+Not so kind regards,
+
+Jamie ☺️

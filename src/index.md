@@ -20,7 +20,7 @@ To sum me up, I like:
 - [Electronics](/electronics) - Fixing things, making things... there's something very satisfying about soldering parts together and seeing them work!
 - [Programming/Computers](/programming) - My favoured programming languages are C and Lua, but I like others depending on the task at hand.
 - [Guitars and Music](/guitars-and-music) - My heroes are Nuno Bettencourt, Guthrie Govan, Fast Eddie Clarke, Jun Senoue, Neal Schon, Brett Garsed...
-- [Gaming](/gaming) - I mostly mean retro style here, I love the classic Mega-Drive and PS2 games, also love newer games like TLoU2!
+- [Gaming](/gaming) - I love the retro consoles like the Mega-Drive and PS2, but also newer games like TLoU2 and Insomniac Spider-Man!
 - Various other nerdy/geeky things - building Gundam models, Mathematics/Sciences, Rubik's cubes...
 
 Oh, and food, and good TV 😊
