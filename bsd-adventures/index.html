@@ -1,26 +1,29 @@
 <!DOCTYPE html>
 <html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta name="description" content="Ongoing fun porting things to FreeBSD">
-    <meta name="generator" content="Eleventy v3.1.6">
-    <link rel="canonical" href="https://m0jxd.github.io/"/>
-    <link rel="stylesheet" href="/bundle.css">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta name="description" content="Ongoing fun porting things to FreeBSD" />
+    <meta name="generator" content="Eleventy v3.1.6" />
+    <link rel="canonical" href="https://m0jxd.github.io/" />
+    <link rel="stylesheet" href="/bundle.css" />
     <title>BSD Adventures</title>
-    <link rel="icon" type="image/x-icon" href="/img/pfp.jpg">
-</head>
-<body>
+    <link rel="icon" type="image/x-icon" href="/img/pfp.jpg" />
+  </head>
+  <body>
     <header>
-        <a href="/"><img src="/img/pfp.jpg" alt="Jamie's Usual PFP"></a>
-        <h1>M0JXD's Website</h1>
-        <nav>
-        <a href="/sitemap">Sitemap</a>
-        </nav>
+      <a href="/"><img src="/img/pfp.jpg" alt="Jamie's Usual PFP" /></a>
+      <h1>M0JXD's Website</h1>
+      <nav>
+        <a href="/sitemap">
+          <!--Sitemap icon credit: https://uxwing.com/sitemap-icon/-->
+          <img class="light" src="/img/sitemap-icon.png" alt="Sitemap" />
+          <img class="dark" src="/img/sitemap-icon-dark.png" alt="Sitemap" />
+        </a>
+      </nav>
     </header>
     <main>
-        <article>
-        <h1>BSD Adventures</h1>
+      <article><h1>BSD Adventures</h1>
 <p>The BSD OSes have some very appealing qualities to me. Delivered as complete systems, beautifully documented, preferable licensing and true derivatives of an early Unix implementation, while still sworn on using C for the core aspects as every good OS seems to do. And the dang cool mascot Beastie!
 Long term (and by that I mean probably 10 years time), I'm hoping to be able to run FreeBSD as my main personal desktop OS. However while moving from Windows to Linux was a bit of a learning curve, moving to FreeBSD asks to remove even more home comforts. So I'm very slowly doing what I can to close the gap on what I need BSD to be.</p>
 <p>While nearly all the software I use is in FreeBSD's ports, some need a bit more help. To start, my favourite code editor had an issue with <a href="https://github.com/orbitalquark/textadept/issues/676">find and replace</a> due to Clang's boolean return values being interpreted oddly by GTK. That was a fun bug hunt!</p>
@@ -30,23 +33,34 @@ Long term (and by that I mean probably 10 years time), I'm hoping to be able to 
 <p><img src="/img/bsd-on-netbook.jpg" alt=""></p>
 <p>I wrote a <a href="https://github.com/M0JXD/audacity-multitake">script for Audacity</a> to handle the &quot;looped multitakes&quot; feature. I had thought previously about maybe diving into Audacity's code to integrate it with the the new looped selection feature, but with the move to v4 they're discouraging contributions right now and that also demands signing a CLA. The script is stupidly simple, but better than nothing and works on FreeBSD.</p>
 <p>I've also initially started work on porting the <a href="https://github.com/Stazed/non-mixer-xt/pull/61">Non</a> <a href="https://github.com/Stazed/non-timeline-xt/pull/12">forks</a>, and the maintainers of it and related projects have been very enthusiastic and helpful on my mission, far outdoing my initial measly patches!</p>
+</article>
+      <p>
+        <em>
+          <br />
+          Page created: Wednesday, 11 March 2026
+          <br />
+          Last modified: Tuesday, 12 May 2026
+        </em>
+      </p>
 
-        </article>
-        <p><em>
-        <br>
-        Page created: Wednesday, 11 March 2026
-        <br>
-        Last modified: Tuesday, 12 May 2026
-        </em><p>
+      <p></p>
     </main>
     <footer>
-        <div class="fill"></div>
-        <div class="copyright"><p>Copyright © 2025&hyphen;2026 Jamie Drinkell</p></div>
-        <div class="social-links">
-        <a href="https://github.com/M0JXD" target="_blank"><img src="/img/github.png" alt="GitHub"></a>
-        <a href="https://www.instagram.com/jamiedrinkell" target="_blank"><img src="/img/instagram.png" alt="Instagram"></a>
-        <a href="https://www.youtube.com/@jamiedrinkell" target="_blank"><img src="/img/youtube.png" alt="YouTube"></a>
-        </div>
+      <div class="fill"></div>
+      <div class="copyright">
+        <p>Copyright © 2025&hyphen;2026 Jamie Drinkell</p>
+      </div>
+      <div class="social-links">
+        <a href="https://github.com/M0JXD" target="_blank"
+          ><img src="/img/github.png" alt="GitHub"
+        /></a>
+        <a href="https://www.instagram.com/jamiedrinkell" target="_blank"
+          ><img src="/img/instagram.png" alt="Instagram"
+        /></a>
+        <a href="https://www.youtube.com/@jamiedrinkell" target="_blank"
+          ><img src="/img/youtube.png" alt="YouTube"
+        /></a>
+      </div>
     </footer>
-</body>
+  </body>
 </html>
