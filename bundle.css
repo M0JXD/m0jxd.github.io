@@ -143,6 +143,10 @@ iframe {
   }
 }
 
+.dark {
+  display: none;
+}
+
 /* Dark Mode */
 @media (prefers-color-scheme: dark) {
   html,
@@ -167,5 +171,13 @@ iframe {
   footer {
     color: #e2dfdb;
     background-color: #2a2b32;
+  }
+
+  .dark {
+    display: block;
+  }
+
+  .light {
+    display: none;
   }
 }
