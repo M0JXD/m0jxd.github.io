@@ -15,3 +15,4 @@ See her instagram! <https://www.instagram.com/abidrinkell/>
 Just look at her!
 
 ![](/img/cosy.jpg)
+![](/img/cosy-2.jpg)
