@@ -44,7 +44,7 @@ It was time to set up my dumped games for USB Loader GX, with some help from Tin
 ![](/img/wii-mod/tinywiibackupmanager.jpg)
 ![](/img/wii-mod/dumped-games.jpg)
 
-And what better way to test than a bit of Sonic Adventure 2? I still need to get *all* A ranks, but I'm well on my way!
+And what better way to test than a bit of Sonic Adventure 2? I still need to get _all_ A ranks, but I'm well on my way!
 
 ![](/img/wii-mod/sa2-a-ranks.jpg)
 
