@@ -21,6 +21,8 @@ shopt -s extglob
 rm -rfv !(_site|.git|.gitignore|node_modules)
 echo -e "${GREEN}\nCopying new files...\n${ENDCOLOR}"
 cp -Rv _site/* .
+echo -e "${GREEN}\nCreating .nojekyll...\n${ENDCOLOR}"
+touch .nojekyll
 echo -e "${GREEN}\nCommiting...\n${ENDCOLOR}"
 git add -A
 git commit -m "Update deployment `date`"
