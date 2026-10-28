@@ -1,7 +1,7 @@
 const DateTime = require("luxon").DateTime;
 
 module.exports = function (eleventyConfig) {
-  eleventyConfig.addPassthroughCopy({"resources/*": "/"});
+  eleventyConfig.addPassthroughCopy({ "resources/*": "/" });
   eleventyConfig.addPassthroughCopy("img");
   eleventyConfig.setInputDirectory("src");
   eleventyConfig.addFilter("datefilter", (dateObj) => {
