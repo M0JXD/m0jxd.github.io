@@ -23,9 +23,8 @@ I even made some [video tutorials](https://www.youtube.com/watch?v=a0dkfJJ4AgM&l
 
 In early 2025, I ported the Textadept editor to Haiku. While it's not feature complete (there's some issues with the key-bindings and generating the docs), it works pretty well! Hopefully as Haiku becomes more complete I can revisit this.
 
-![](/img/textadept-haiku-1.jpg)
-![](/img/textadept-haiku-2.jpg)
+![](/img/textadept-haiku.jpg)
 
 I've also sent in some fixes for Textadept, and made some other things too, e.g. [Discord Rich Presence integration](https://github.com/M0JXD/textadept-discord-rpc) and a [custom build for Windows 7](https://github.com/M0JXD/textadept/releases/tag/13-alpha-win7) (just for funsies - please don't continue to use unsupported operating systems).
 
-As a side-note - Textadept is just awesome and I can't recommend it enough if you are developer looking for what is essentially a hyper scriptable notepad for programmers.
+As a side-note, Textadept is just awesome and I can't recommend it enough if you are developer looking for what is essentially a hyper scriptable notepad for programmers.
