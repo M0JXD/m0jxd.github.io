@@ -23,10 +23,18 @@ Cover of the main solo from "Sweet Child O' Mine" by Guns and Roses:
 
 ---
 
-Cover of the Beat It guitar solo by Michael Jackson/Eddie Van Halen:
+Cover of the "Beat It" guitar solo by Michael Jackson/Eddie Van Halen:
 
 <iframe
-src="https://www.youtube.com/embed/GINw4mtxaaU?si=0fgSCTUagW2euVjV" 
+src="https://www.youtube.com/embed/GINw4mtxaaU">
+</iframe>
+
+---
+
+Cover of the "Crazy Train" guitar solo by Ozzy Osbourne/Randy Rhoads:
+
+<iframe
+src="https://www.youtube.com/embed/nGdNgIj_mas">
 </iframe>
 
 ---
@@ -34,7 +42,7 @@ src="https://www.youtube.com/embed/GINw4mtxaaU?si=0fgSCTUagW2euVjV"
 A solo I wrote for a competition that was run in a Discord for Crush40:
 
 <iframe
-src="https://www.youtube.com/embed/ag-OlZlB81c?si=lItpXBsZid8frqkm">
+src="https://www.youtube.com/embed/ag-OlZlB81c">
 </iframe>
 
 ---
@@ -66,7 +74,7 @@ src="https://www.youtube.com/embed/_0BCFRhmsm0">
 Cover of the solo from "Get The Funk Out" by Extreme:
 
 <iframe
-src="https://www.youtube.com/embed/vSkRNVp05Zw?si=5EuaznS54Fnz9Vp5">
+src="https://www.youtube.com/embed/vSkRNVp05Zw">
 </iframe>
 
 ---
