@@ -3,15 +3,11 @@ title: M0JXD's Website - Homepage
 description: MOJXD's (Jamie Drinkell's) Personal Website.
 ---
 
-Hi, welcome to my website! It's a small place so I can share a bit about me and what I like to do. It's kind of somewhere between a portfolio and blog site, but more informal and intentionally less organised. I've wanted my own page for some time, but I am not a web developer. Hence the plainness in design is three fold:
+Hi, I'm Jamie, and welcome to my website! I've made it as a small place to share a bit about me and what I get up to.
+It's kind of somewhere between a portfolio and blog site, but more informal and intentionally less organised.
 
-- It matches the spirit of my appreciation for fast, performant and minimalist leaning software that gets the job done well.
-- I like the style, it has a certain mid-naughties nostalgia of how people's personal sites looked like when I was first on the internet.
-- This is really the limit of my HTML/CSS knowledge (although I'm slowly learning more).
-
-We're not completely without modern niceties though: I'm using 11ty and Markdown, with GitHub pages to host (well, except for the time I ran it over [packet radio](/packet-radio)). There's also support for preferred dark mode and smaller screens.
-
-The picture at the top is a very cute crotched version of a _certain popular blue hedgehog_ that my sister made for me. I use it as a profile picture on most platforms.
+The picture at the top left is the one I use a profile picture most everywhere, so if you see it about the internet it's very likely to be me!
+It's a very cute crotched version of a _certain popular blue hedgehog_ that my sister made for me, and sits proudly on my desk.
 
 ## About me
 
@@ -32,6 +28,7 @@ Oh, and food, and good TV 😊
 - [Making a loading utility for the Axe-FX II](/axeii-loader)
 - [Open Source Contributions](/floss-contributions)
 - [A Morse Training Application](/morse-trainer)
+- [This Website!](/about-site)
 
 ## And some other ramblings...
 
