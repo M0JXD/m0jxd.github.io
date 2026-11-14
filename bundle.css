@@ -12,6 +12,7 @@ body {
 
 body {
   font-family: Tahoma, Arial;
+  font-size: 18px;
   min-height: 100vh;
   display: flex;
   flex-direction: column;
@@ -102,7 +103,7 @@ iframe {
   height: 600px;
 }
 
-/* Mobile screen fixes */
+/* Small screen fixes */
 @media (max-width: 800px) {
   img {
     max-width: 280px;
